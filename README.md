@@ -38,6 +38,6 @@ Email: joeychez123@gmail.com
 
 Github: https://github.com/Joeychez23
 
-Repo: https://github.com/Joeychez23/mysql-homework
+Repo: https://github.com/Joeychez23/E-Commerce-back-end
 
 Video: https://drive.google.com/file/d/11f75k2sQrg6Fr143eA5xooBYc8Ub_J2h/view
