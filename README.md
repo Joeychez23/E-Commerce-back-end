@@ -11,7 +11,7 @@
 
 ## Description
 
-Using Node.js to provision a mySQL database that can be manipulated using sequizize that is called using insonia http api calls
+Using Node.js to provision a mySQL database that can be manipulated using sequelize that is called using insonia http api calls
 
 ## Installation
 
